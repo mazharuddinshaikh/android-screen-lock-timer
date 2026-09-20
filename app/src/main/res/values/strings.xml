@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Screen Lock Timer</string>
+    <string name="device_admin_label">Screen Lock Timer Admin</string>
+    <string name="device_admin_description">Required to automatically turn off and lock the screen at your chosen interval to help reduce phone addiction.</string>
+    <string name="notification_channel_name">Screen Lock Service</string>
+    <string name="notification_channel_description">Notifies active status and upcoming auto-lock time</string>
+    <string name="notification_title_active">Auto-Lock Active</string>
+    <string name="notification_text_countdown">Next device lock in %s</string>
+    <string name="notification_service_stopped">Auto-lock timer stopped</string>
+</resources>

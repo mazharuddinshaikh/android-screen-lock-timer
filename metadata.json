@@ -1,0 +1,6 @@
+{
+  "name": "Screen Lock Timer",
+  "description": "Auto screen locking service to limit child device usage and break phone addiction at custom minute intervals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
